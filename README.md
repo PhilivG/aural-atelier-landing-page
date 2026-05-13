@@ -2,6 +2,10 @@
 
 Landing page conceptual de moda creada como pieza de portafolio.
 
+## Vista previa
+
+https://philivg.github.io/aural-atelier-landing-page/gi
+
 ## Descripcion
 
 Aural Atelier es una propuesta con direccion fashion campaign, tono aspiracional y una estetica editorial contemporanea. La landing esta pensada para presentar una coleccion, un drop o un lanzamiento de marca con identidad visual fuerte.
