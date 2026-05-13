@@ -4,7 +4,7 @@ Landing page conceptual de moda creada como pieza de portafolio.
 
 ## Vista previa
 
-https://philivg.github.io/aural-atelier-landing-page/gi
+https://philivg.github.io/aural-atelier-landing-page/
 
 ## Descripcion
 
